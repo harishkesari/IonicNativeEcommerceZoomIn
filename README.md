@@ -1,5 +1,5 @@
 # IonicNativeEcommerceZoomIn
-
+Shooping apps image gallery  with zoom-in and slider feature 
 Load the following html code for images basic view in production description pages
 ```
 <ion-header-bar class="bar-stable">
