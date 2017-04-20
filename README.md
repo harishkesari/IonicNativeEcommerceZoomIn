@@ -197,5 +197,16 @@ Load the css code
    align-items: center;
   }
   ```
+  Screen shots
   
+<div class="row" >
+<div class="col" style="padding:10px">
+  <img src='https://github.com/harishkesari/IonicNativeEcommerceZoomIn/blob/master/img/Screenshot_20170420-150328%5B1%5D.jpg' height='100' width='100'/>
+  </div>
+  <div class="col" style="padding:10px">
+  <img src='https://github.com/harishkesari/IonicNativeEcommerceZoomIn/blob/master/img/Screenshot_20170420-150337%5B1%5D.jpg' height='100' width='100'/>
+  <div class="col" style="padding:10px">
+  <img src='https://github.com/harishkesari/IonicNativeEcommerceZoomIn/blob/master/img/Screenshot_20170420-150345%5B1%5D.jpg' height='100' width='100' />
+  </div>
+</div>
   Happy Coding have a nice day.. :)
