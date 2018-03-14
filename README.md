@@ -1,6 +1,7 @@
 # IonicNativeEcommerceZoomIn
-Shooping apps image gallery  with zoom-in and slider feature 
-Load the following html code for images basic view in production description pages
+Native Image gallery zoom in Html5 and Ionic framework.
+
+   Load the following code in html
 ```
 <ion-header-bar class="bar-stable">
       <h1 class="title">Ecommerce Zoom-in in Ionic</h1>
@@ -197,6 +198,13 @@ Load the css code
    align-items: center;
   }
   ```
+  
+ When double click on image. It navigates to  native gallery image zoom in.
+ It supports: 
+ -> Selecting the random images from row and display in gallery block.
+ -> Pinch to zoom to max level of image resolutions.
+ -> Gallery boxes.
+ 
   Screen shots
   
 <div class="row" >
