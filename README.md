@@ -3,7 +3,7 @@ Native Image gallery zoom in Html5 and Ionic framework. <br>
     When double click on image. It navigates to  native gallery image zoom in. <br>
  It supports: <br>
  -> Selecting the random images from row and display in gallery block. <br>
- -> Pinch to zoom to max level of image resolutions. <br>
+ -> Pinch to zoom upto max level of image resolutions. <br>
  -> Gallery boxes. <br>
  
  
