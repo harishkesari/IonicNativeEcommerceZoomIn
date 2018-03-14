@@ -1,6 +1,12 @@
 # IonicNativeEcommerceZoomIn
 Native Image gallery zoom in Html5 and Ionic framework.
-
+    When double click on image. It navigates to  native gallery image zoom in.
+ It supports: 
+ -> Selecting the random images from row and display in gallery block.
+ -> Pinch to zoom to max level of image resolutions.
+ -> Gallery boxes.
+ 
+ 
    Load the following code in html
 ```
 <ion-header-bar class="bar-stable">
@@ -199,11 +205,7 @@ Load the css code
   }
   ```
   
- When double click on image. It navigates to  native gallery image zoom in.
- It supports: 
- -> Selecting the random images from row and display in gallery block.
- -> Pinch to zoom to max level of image resolutions.
- -> Gallery boxes.
+
  
   Screen shots
   
